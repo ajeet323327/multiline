@@ -4,6 +4,8 @@
 
 No more string concatenation or array join!
 
+ECMAScript 6 (ES6) introduces a new type of literal, namely template literals. They have many features, variable interpolation among others, but most importantly for this question, they can be multiline.
+
 *Use ES2015 [template literals](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/template_strings) instead whenever possible.*
 
 #### Before
